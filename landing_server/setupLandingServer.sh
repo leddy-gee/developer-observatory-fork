@@ -15,13 +15,13 @@ maxInstances="30"
 
 #Register API keys at https://www.google.com/recaptcha/admin
 #These are currently test keys that will pass any verifications.
-recaptchaSiteKey='6LdU8nMUAAAAAMBwHrt2FGluLWiSl6lXvxW9N2S_'
-recaptchaSecret='6LdU8nMUAAAAALpNSYvDTtXS-SXoggxa_SDkRFHk'
+recaptchaSiteKey=''
+recaptchaSecret=''
 
 #AWS Credentials
 awsLang='de'
-awsAccessKey='AKIAI6VZYEDV3C4ZBUQA'
-awsSecretKey='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'
+awsAccessKey=''
+awsSecretKey=''
 awsRegion='eu-central-1'
 
 # AWS Settings
