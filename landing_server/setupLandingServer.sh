@@ -8,27 +8,27 @@
 #Manual configurations go here
 
 #URL to the exit survey
-finalSurveyURL="<surveyUrl>"
+finalSurveyURL="http://survey.azeier.de/limesurvey/index.php/677359?lang=en"
 
-dailyMaxInstances="2"
-maxInstances="200"
+dailyMaxInstances="10"
+maxInstances="30"
 
 #Register API keys at https://www.google.com/recaptcha/admin
 #These are currently test keys that will pass any verifications.
-recaptchaSiteKey='6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI'
-recaptchaSecret='6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe'
+recaptchaSiteKey='6LdU8nMUAAAAAMBwHrt2FGluLWiSl6lXvxW9N2S_'
+recaptchaSecret='6LdU8nMUAAAAALpNSYvDTtXS-SXoggxa_SDkRFHk'
 
 #AWS Credentials
-awsLang='en'
-awsAccessKey=''
-awsSecretKey=''
-awsRegion='us-east-1'
+awsLang='de'
+awsAccessKey='AKIAI6VZYEDV3C4ZBUQA'
+awsSecretKey='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'
+awsRegion='eu-central-1'
 
 # AWS Settings
-awsImageId='ami-<id>'
-awsInstanceType='t2.nano'
-awsSecurityGroupID='sg-<number>'
-awsSshKeyName='SSH Gateway' #You should put your ssh key here, incase that you want to connect to the instances
+awsImageId='ami-038fc2fd97a7886ac'
+awsInstanceType='t2.micro'
+awsSecurityGroupID='sg-02e08afb1e54273b7'
+awsSshKeyName='aws' #You should put your ssh key here, incase that you want to connect to the instances
 
 poolSize="1"
 
