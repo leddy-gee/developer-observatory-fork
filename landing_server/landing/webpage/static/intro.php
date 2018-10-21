@@ -24,9 +24,9 @@
                 <p>Thank you for participating in our study. We are interested in learning about how developers use cryptographic APIs in Java.</p>
                 <p>For this, we want to evaluate the usability of two Java signing APIs.</p>
 <p>As part of this study, we will assign you one of the signing APIs and a Java programming task to complete. This should take about an hour. If you couldn't finish the task after 90 minutes, you should stop.  
-We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the tasks, you will be directed to a short exit interview.
+We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the task, you will be directed to a short exit interview.
 Please answer this survey, even if you couldn't complete the task.</p>
-<p>Since this is a usabilty evaluation, we want to know everything you like and dislike about the given API for solving the task. Please write your thoughts as commentary in your code.</p>
+<p>Since this is a usabilty evaluation, we want to know everything you like and dislike about the given API, especially in the context of solving the task. Please write your thoughts as commentary in your code.</p>
 <p>We hope that participating in this study will be both fun and educational. We are very grateful for your donation of time and effort to help our research.</p>
             </div>
         </div>
