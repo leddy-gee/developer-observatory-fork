@@ -25,7 +25,7 @@ awsSecretKey=''
 awsRegion='eu-central-1'
 
 # AWS Settings
-awsImageId='ami-038fc2fd97a7886ac'
+awsImageId='ami-0fdeb17edb30612d5'
 awsInstanceType='t2.micro'
 awsSecurityGroupID='sg-02e08afb1e54273b7'
 awsSshKeyName='aws' #You should put your ssh key here, incase that you want to connect to the instances
