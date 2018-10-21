@@ -13,24 +13,23 @@
 </head>
 
 <body>
+<?php
+$token = substr(uniqid(),-12,12);
+$token2 = substr(uniqid(),0,12);
+?>
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     </nav>
     <div class="container">
 
         <hr class="featurette-divider">
         <div class="row">
-            <div class="col-lg-6"  style="text-align: justify;">
-                <p><h2>Introduction</h2></p>
-                <p>Thank you for participating in our study. We are interested in learning about how developers use cryptographic APIs in Java.</p>
-                <p>For this, we want to evaluate the usability of two Java signing APIs.</p>
-<p>As part of this study, we will assign you one of the signing APIs and a Java programming task to complete. This should take about an hour. If you couldn't finish the task after 90 minutes, you should stop.  
-We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the tasks, you will be directed to a short exit interview.
-Please answer this survey, even if you couldn't complete the task.</p>
-<p>Since this is a usabilty evaluation, we want to know everything you like and dislike about the given API for solving the task. Please write your thoughts as commentary in your code.</p>
-<p>We hope that participating in this study will be both fun and educational. We are very grateful for your donation of time and effort to help our research.</p>
+            <div class="col-lg-8"  style="text-align: justify;">
+                <p><h2>Wellcome</h2></p>
+                <p>Thank you for participating in our study. Please save the folowing link. You will be able to continue the study after a systeme- or network-fail or after a break using this link.</p>
+<p>Save this link: <a herf="<?php echo (isset($_SERVER['HTTPS'])?'https':'http').'://' . $_SERVER['HTTP_HOST']; ?>/index.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?>"><?php echo (isset($_SERVER['HTTPS'])?'https':'http').'://' . $_SERVER['HTTP_HOST']; ?>/index.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?></a></p>
             </div>
         </div>
-        <form id="form" role="form" method="post" action="consent.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?>">
+        <form id="form" role="form" method="post" action="index.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?>">
           
         <button type="submit" class="btn btn-default" id="submit-btn">Continue</button>
         </form>

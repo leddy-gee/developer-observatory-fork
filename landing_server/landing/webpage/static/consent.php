@@ -27,7 +27,7 @@
                 <p><b>Project Title:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>Example study</p>
+                <p>Usability of Java signing APIs</p>
             </div>
         </div>
         <div class="row">
@@ -35,7 +35,7 @@
                 <p><b>Purpose of the Study:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>This research is being conducted by .. at ... The purpose of this project is to give an example consent form.</p>
+                <p>This research is being conducted by Alexander Zeier at Darmstadt University of Applied Sciences. The purpose of this project is to evaluate the usability of two different Java signing APIs.</p>
             </div>
         </div>
         <div class="row">
@@ -43,10 +43,10 @@
                 <p><b>Procedures:</b></p>
             </div>
             <div class="col-lg-8">
-                <p> 1) You will be asked to complete several short programming tasks.<br />
+                <p> 1) You will be asked to complete a programming task.<br />
                     2) Immediately after finishing the short programming tasks, you will be given an exit survey.<br />
 <br />
-                    The entire process should take about x minutes.
+                    The entire process should take about 60-90 minutes.
                 </p>
             </div>
         </div>
@@ -55,7 +55,8 @@
                 <p><b>Potential Risks and Discomforts:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>...</p>
+                <p>There is only minimal risk to participants. All collected data including Java source code and exit survey answers will be stored in a secure
+                cloud-storage system that only the conductor of this study can access.</p>
             </div>
         </div>
         <div class="row">
@@ -63,7 +64,7 @@
                 <p><b>Potential Benefits:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>...</p>
+                <p>There are no direct benefits for participants in this study. However, we believe that this study will improve understanding of how Java programmers use cryptographic Java APIs.</p>
             </div>
         </div>
         <div class="row">
@@ -71,7 +72,10 @@
                 <p><b>Confidentiality:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>...</p>
+                <p>No personally identifiable information will be collected. However, we may use cookies and IP addresses to prevent duplicate participation.</p>
+                <p>All exit survey answers, along with the Java source code, will be collected and analyzed pseudonymously. Moreover, the data will be stored in a 
+                secure cloud storage system accessable only to the conductor of this study.</p>
+                <p>After this study is completed, the data used in this study will be archived for three years and then destroyed.</p>
             </div>
         </div>
         <div class="row">
@@ -88,6 +92,7 @@
             </div>
             <div class="col-lg-8">
                 <p>You may choose not to take part at all. If you decide to participate in this research, you may stop participating at any time.  If you decide not to participate in this study or if you stop participating at any time, you will not be penalized or lose any benefits to which you otherwise qualify.</p>
+                <p>If you are a student of Darmstadt University of Applied Sciences, neither your grades, standing nor your employability will be positively or negatively affected by deciding to participate in this study, deciding to not participate in this study, or starting the study and withdraw from it. 
             </div>
         </div>
         <div class="row">
@@ -97,7 +102,11 @@
             <div class="col-lg-8">
                 <p>If you have questions about your rights as a research participant or wish to report a research-related injury, please contact: <br/>
                 <br/><b>
-                ...
+                Alexander Zeier
+                University of Applied Sciences
+                Haardtring 100
+                64295 Darmstadt
+                alexander.zeier@h-da.de
                 </b>
                 <br/>
                 A copy of this consent form (which you should print for your records) can be found <a href="static/ConsentForm.pdf" target="_blank">here</a>.</p>

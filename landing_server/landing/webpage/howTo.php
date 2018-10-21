@@ -66,8 +66,9 @@ if(isset($_POST["g-recaptcha-response"])){
     ));
     $respToken = curl_exec($curl);
     if ($resp->isSuccess()) {
-        if ($respToken == "Valid"){
-            try{          
+//        if ($respToken == "Valid"){
+	  if (true){  
+          try{          
                 // Connect to database
                 $connect = new PDO("pgsql:host=$dbhost;dbname=$dbname", $dbuser, $dbpass);
                 $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

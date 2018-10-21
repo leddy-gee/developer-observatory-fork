@@ -45,7 +45,8 @@ if((strlen($token) == 12 and preg_match("/^[0-9a-z]+$/", $token)) and (strlen($t
         CURLOPT_USERAGENT => 'LandingPage Token Verifier'
     ));
     $respToken = curl_exec($curl);
-    if($respToken == "Valid"){
+//    if($respToken == "Valid"){
+      if(true){
         include("static/intro.php");
     } elseif ($respToken == "Expired") {
         $webpageMessageHeader = "";
@@ -54,14 +55,16 @@ if((strlen($token) == 12 and preg_match("/^[0-9a-z]+$/", $token)) and (strlen($t
         include(__DIR__."/static/error.php");
     } else {
         $webpageMessageHeader = "";
-        $webpageMessage = "Your token is invalid. Please click on the link in the E-Mail.";
+        $webpageMessage = "Your token is invalid. Please check your link. Or Klick <a href='index.php'>here</a>.";
         $webpageRedirect = False;
         include(__DIR__."/static/error.php");
     }
 } else {
     $webpageMessageHeader = "";
-    $webpageMessage = "Your token is invalid. Please click on the link in the E-Mail.";
-    $webpageRedirect = False;
-    include(__DIR__."/static/error.php");
+    //$webpageMessage = "Thank you for participating in our study. Please click on the link in the E-Mail.";
+    //$webpageRedirect = False;
+    //include(__DIR__."/static/error.php");
+ include("static/firstIntro.php");
+
 }
 ?>
