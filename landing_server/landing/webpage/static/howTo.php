@@ -38,25 +38,22 @@
         <div class="row">
             <div class="col-lg-6" style="text-align: justify;">
                 <p><h2>About the online editor</h2>
-For this study, you will be writing your code using a Java online editor. The editor is based on a Jupyter notebook an interactive, web-based platform that allows you to write and execute Java code directly in your browser.<br />
-We have included all third party libraries that we think you might require to complete all programming tasks.<br />
-In fact, the code is executed as Groovy code. Since Groovy is able to understand most of the Java syntax, this shouldn't be a problem. If there are any complications resulting from this, in the task description you will be given a link explaining the differences 
-between Java and Groovy.</p>
+For this study, you will be writing your code using a Java online editor.<br /></p>
 
 <p><h2>Write your code</h2>
 Before writing any code, please read the task description carefully. Type your code in shaded input cells. We have provided some skeleton code or comments for each task to help you get started. You are welcome to create any unit test code you need as you work on the task. You are also welcome to use any resources you normally would to help you solve a programming task.</p>
 
 <p><h2>Test your code</h2>
-Push the green button labeled “Run and test your code” to run your code. Possible output will be displayed below your code.</p>
+Push the green button labeled “Run and test” to run your code. Possible output will be displayed below your code.</p>
 
 <p><h2>Finishing a task</h2>
-When you are satisfied with your solution, push the blue button labeled “I am done!” Pushing this button will redirect you to our exit survey, which should take less than 15 minutes to complete. Once you choose “I am done!”, you cannot return to edit your code any further.</p>
+When you are satisfied with your solution, push the blue button labeled “I am done!” Pushing this button will redirect you to our survey, which should take less than 15 minutes to complete. Once you choose “I am done!”, you cannot return to edit your code any further.</p>
 
 <p><h2>If you get stuck</h2>
 If you find that for any reason you are unable to complete the task, you can just stop by pushing the "I am done!" button. Since we want to evaluate the APIs usability, your results and thoughts are still very important to us. Please tell us everything that prevented you 
-from finishing the task in the commentary or in the exit survey. <br />
+from finishing the task in the commentary or in the survey. <br />
 
-If you think that the notebook got stuck, please click the yellow button labeled “Get unstuck.”<br />
+If you think that the editor got stuck, please click the yellow button labeled “Get unstuck.”<br />
 
 <p>Please wait while we start your editor, this will only take a couple of seconds. You can start as soon as the button shows “Let me start the study.”</p>
             </div>

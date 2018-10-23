@@ -22,11 +22,12 @@
             <div class="col-lg-6"  style="text-align: justify;">
                 <p><h2>Introduction</h2></p>
                 <p>Thank you for participating in our study. We are interested in learning about how developers use cryptographic APIs in Java.</p>
-                <p>For this, we want to evaluate the usability of two Java signing APIs.</p>
-<p>As part of this study, we will assign you one of the signing APIs and a Java programming task to complete. This should take about an hour. If you couldn't finish the task after 90 minutes, you should stop.  
-We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the task, you will be directed to a short exit interview.
-Please answer this survey, even if you couldn't complete the task.</p>
-<p>Since this is a usabilty evaluation, we want to know everything you like and dislike about the given API, especially in the context of solving the task. Please write your thoughts as commentary in your code.</p>
+                <p>For this, we want to evaluate the usability of two Java APIs supporting cryptographic signatures.</p>
+<p>As part of this study, we will assign you one of the these APIs and a Java programming task to complete. This should take about an hour. If you couldn't finish the task after 90 minutes, you should stop.  
+We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the task, you will be directed to a short survey.
+Please answer this survey, even if you couldn't complete the task. Since we are testing the API's usabiliy, it is ok to make mistakes. We are not testing your programming skills and want to know everything that could go
+wrong when using the given API.</p>
+<p>For this reason, please tell us everything you like and dislike about the given API, especially in the context of solving the task. Please write your thoughts as commentary in your code.</p>
 <p>We hope that participating in this study will be both fun and educational. We are very grateful for your donation of time and effort to help our research.</p>
             </div>
         </div>

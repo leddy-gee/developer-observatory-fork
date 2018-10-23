@@ -24,8 +24,8 @@ $token2 = substr(uniqid(),0,12);
         <hr class="featurette-divider">
         <div class="row">
             <div class="col-lg-8"  style="text-align: justify;">
-                <p><h2>Wellcome</h2></p>
-                <p>Thank you for participating in our study. Please save the folowing link. You will be able to continue the study after a systeme- or network-fail or after a break using this link.</p>
+                <p><h2>Welcome</h2></p>
+                <p>Thank you for participating in our study. Please save the folowing link. You will be able to continue the study after a system- or network-fail or after a break using this link.</p>
 <p>Save this link: <a herf="<?php echo (isset($_SERVER['HTTPS'])?'https':'http').'://' . $_SERVER['HTTP_HOST']; ?>/index.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?>"><?php echo (isset($_SERVER['HTTPS'])?'https':'http').'://' . $_SERVER['HTTP_HOST']; ?>/index.php?token=<?php echo $token; ?>&token2=<?php echo $token2; ?></a></p>
             </div>
         </div>

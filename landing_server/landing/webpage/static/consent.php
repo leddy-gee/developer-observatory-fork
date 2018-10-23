@@ -44,7 +44,7 @@
             </div>
             <div class="col-lg-8">
                 <p> 1) You will be asked to complete a programming task.<br />
-                    2) Immediately after finishing the short programming tasks, you will be given an exit survey.<br />
+                    2) Immediately after finishing the short programming tasks, you will be given an survey.<br />
 <br />
                     The entire process should take about 60-90 minutes.
                 </p>
@@ -55,7 +55,7 @@
                 <p><b>Potential Risks and Discomforts:</b></p>
             </div>
             <div class="col-lg-8">
-                <p>There is only minimal risk to participants. All collected data including Java source code and exit survey answers will be stored in a secure
+                <p>There is only minimal risk to participants. All collected data including Java source code and survey answers will be stored in a secure
                 cloud-storage system that only the conductor of this study can access.</p>
             </div>
         </div>
@@ -73,7 +73,7 @@
             </div>
             <div class="col-lg-8">
                 <p>No personally identifiable information will be collected. However, we may use cookies and IP addresses to prevent duplicate participation.</p>
-                <p>All exit survey answers, along with the Java source code, will be collected and analyzed pseudonymously. Moreover, the data will be stored in a 
+                <p>All survey answers, along with the Java source code, will be collected and analyzed pseudonymously. Moreover, the data will be stored in a 
                 secure cloud storage system accessable only to the conductor of this study.</p>
                 <p>After this study is completed, the data used in this study will be archived for three years and then destroyed.</p>
             </div>
@@ -102,10 +102,10 @@
             <div class="col-lg-8">
                 <p>If you have questions about your rights as a research participant or wish to report a research-related injury, please contact: <br/>
                 <br/><b>
-                Alexander Zeier
-                University of Applied Sciences
-                Haardtring 100
-                64295 Darmstadt
+                Alexander Zeier,
+                University of Applied Sciences,
+                Haardtring 100,
+                64295 Darmstadt,
                 alexander.zeier@h-da.de
                 </b>
                 <br/>
