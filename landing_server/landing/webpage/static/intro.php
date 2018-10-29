@@ -23,7 +23,7 @@
                 <p><h2>Introduction</h2></p>
                 <p>Thank you for participating in our study. We are interested in learning about how developers use cryptographic APIs in Java.</p>
                 <p>For this, we want to evaluate the usability of two Java APIs supporting cryptographic signatures.</p>
-<p>As part of this study, we will assign you one of the these APIs and a Java programming task to complete. This should take about an hour. If you couldn't finish the task after 90 minutes, you should stop.  
+<p>As part of this study, we will assign you one of the these APIs and a Java programming task to complete. This should take about 90 minutes. If you couldn't finish the task after 120 minutes, you should stop.  
 We ask that you write and test code directly in your browser, in an online Java editor provided for this purpose. We will explain the editor soon. After you complete the task, you will be directed to a short survey.
 Please answer this survey, even if you couldn't complete the task. Since we are testing the API's usabiliy, it is ok to make mistakes. We are not testing your programming skills and want to know everything that could go
 wrong when using the given API.</p>
