@@ -46,7 +46,7 @@
                 <p> 1) You will be asked to complete a programming task.<br />
                     2) Immediately after finishing the short programming tasks, you will be given an survey.<br />
 <br />
-                    The entire process should take about 60-90 minutes.
+                    The entire process should take about 90-120 minutes.
                 </p>
             </div>
         </div>
